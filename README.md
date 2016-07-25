@@ -1,6 +1,6 @@
 **Azure - React Weather App**
 =============================
-This is Weather on demand app that uses [openweathermap.org](openweathermap.org) api to show you the weather updates.
+This is Weather on demand app that uses [openweathermap.org](http://openweathermap.org) api to show you the weather updates.
 Powered by React JS.
 
 **Requirements**
@@ -22,9 +22,9 @@ Then run the http server:
 example: 
 `http-server -p 6969`
 then simply open: 
-[localhost:6969](localhost:6969)
+[localhost:6969](http://localhost:6969)
 from your browser.
 
 **Connect**
 ===========
-[Twitter](twitter.com/vaibhaved)
+[Twitter](http://twitter.com/vaibhaved)
