@@ -1,0 +1,48 @@
+@charset "UTF-8";
+@import url(font-awesome.min.css);
+@import 'https://fonts.googleapis.com/css?family=Orbitron';
+
+@-ms-viewport {
+    width: device-width;
+}
+
+* {
+    font: 400 15px/2 'Orbitron', sans-serif;
+    letter-spacing: 2px;
+}
+
+body {
+    background: transparent url("../img/background.jpg") no-repeat;
+    color: white;
+    margin-top: 100px;
+}
+
+/* Nav Bar */
+.navbar {
+    margin-bottom: 0;
+    border: 0;
+    letter-spacing: 2px;
+    padding: 10px;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.navbar li a, .navbar .navbar-brand {
+    color: #ffffff !important;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+.navbar li a, .navbar .navbar-brand {
+}
+
+.navbar-nav li a:hover {
+    color: gray;
+}
+
+/* End Nav Bar */
